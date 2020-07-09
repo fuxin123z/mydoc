@@ -1,0 +1,34 @@
+# pip list 查看包
+
+# -r requirements/pip.txt
+# -r requirements/pip.txt
+# just referencing for a natural `pip install -r requirements.txt`
+
+
+greenlet==0.4.5
+oauthlib==0.7.2
+paho-mqtt==1.0
+tzlocal==1.1.2
+redis==2.10.3
+requests==2.4.3
+requests-oauthlib==0.4.2
+whitenoise==1.0.3
+openpyxl==2.1.5
+
+
+jupyter_client
+nbsphinx
+numpydoc
+
+ipykernel
+
+
+#  pip install recommonmark    !!!
+# pip install sphinx_rtd_theme
+recommonmark
+sphinx_rtd_theme
+
+
+# sphinx==3.1.0
+#git+https://github.com/python/python-docs-theme.git#egg=python-docs-theme
+#git+https://github.com/pypa/pypa-docs-theme.git#egg=pypa-docs-theme
