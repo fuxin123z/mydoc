@@ -27,9 +27,14 @@ Why GIFs?
 .. toctree::
     :maxdepth: 2
     :glob:
-    :caption: First steps
+    :caption: 目录
 
     
     class/index
     xueyuan/index
     py3-in-one-pic.ipynb/index
+    zhitu/index
+    jixiejichu/index
+    jixiezs/index
+    gongcha/index
+    jiaoshizg/index
