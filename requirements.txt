@@ -1,4 +1,4 @@
-# pip list 查看包
+# pip list 查看22包
 
 # -r requirements/pip.txt
 # -r requirements/pip.txt
