@@ -39,7 +39,7 @@ redis==2.10.6  # pyup: ignore
 kombu==4.3.0  # pyup: ignore
 # Celery 4.2 is incompatible with our code
 # when ALWAYS_EAGER = True
-celery==4.1.1  # pyup: ignore
+celery==5.2.2  # pyup: ignore
 
 django-allauth==0.41.0
 
